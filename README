@@ -1,0 +1,10 @@
+Two-Body Dynamics
+
+=================
+
+This is a Python program to simulate the dynamics of a gravitational
+two-body system. It depends on scipy, and is run by calling the function
+two_body_sim (with appropriate arguments).
+
+Please note that this simulation uses S.I. units; the supplied parameters must
+be given in terms of meters, kilograms, and seconds.
